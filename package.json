@@ -1,0 +1,32 @@
+{
+  "name": "pagination",
+  "version": "1.0.0",
+  "description": "Learn about pagination ExpressJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nntruyen027/learning-expressjs-pagination_v1.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "MongoDB",
+    "ExpressJS",
+    "Pagination"
+  ],
+  "author": "Nguyễn Ngọc Truyện",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nntruyen027/learning-expressjs-pagination_v1/issues"
+  },
+  "homepage": "https://github.com/nntruyen027/learning-expressjs-pagination_v1#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mongoose": "^7.1.0",
+    "nodemon": "^2.0.22"
+  }
+}
